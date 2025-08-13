@@ -1,7 +1,7 @@
 // App.jsx
 import React from "react";
 import Header from "./components/Header"; // adjust path if Header.jsx is in a different folder
-import Homepage from "./components/Homepage";
+import Homepage from "./components/HomePage";
 import GamesData from './components/GamesData';
 import TopWheelersSection from "./components/TopWheelersSection";
 import StickyButtons from "./components/StickyButton";
