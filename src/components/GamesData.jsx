@@ -25,17 +25,17 @@ const GamesData = () => {
     {
       name: "Orionestar", 
       image: orionestImg,
-      url: "https://orionestar.com"
+      url: "https://orionestarsonline.com"
     },
     {
       name: "Juwa",
       image: juwaImg,
-      url: "https://juwa.com"
+      url: "https://dl.juwa777.com"
     },
     {
       name: "GameVault",
       image: gamevaultImg,
-      url: "https://gamevault.com"
+      url: "https://theapkmart.net/app/game-vault-999"
     },
     {
       name: "CasinoRoyale",
@@ -45,7 +45,7 @@ const GamesData = () => {
     {
       name: "VegasSweep",
       image: vegassweepImg,
-      url: "https://vegassweep.com"
+      url: "https://m.lasvegassweeps.com"
     },
     {
       name: "MilkyWay",
