@@ -157,7 +157,7 @@
 
 import React, { useState, useEffect, useRef } from "react";
 
-const Homepage = () => {
+const HomePage = () => {
   const images = ["/images/homepage1.png", "/images/homepage2.png"];
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isTransitioning, setIsTransitioning] = useState(true);
@@ -371,4 +371,4 @@ const Homepage = () => {
   );
 };
 
-export default Homepage;
+export default HomePage;
