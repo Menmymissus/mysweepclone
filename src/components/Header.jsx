@@ -72,7 +72,7 @@ const Header = () => {
 
   return (
     <>
-      <header className="absolute top-0 left-0 right-0 z-10 flex justify-between items-center p-6 bg-black bg-opacity-50">
+      <header className="top-0 left-0 right-0 z-10 flex justify-between items-center p-6 bg-black bg-opacity-50">
         <Logo />
         <LoginButton onClick={() => setShowLoginModal(true)} />
       </header>
