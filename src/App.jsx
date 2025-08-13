@@ -8,7 +8,7 @@ import StickyButtons from "./components/StickyButton";
 function App() {
   return (
     <div className="w-full">
-      {/* <Header /> */}
+      <Header />
       {/* Other components or content go here */}
       <main className="w-full">
         <HomePage />
