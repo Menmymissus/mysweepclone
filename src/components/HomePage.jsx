@@ -62,7 +62,7 @@ const Homepage = () => {
             key={index}
             src={img}
             alt={`Slide ${index}`}
-            className="w-full h-[500px] object-cover flex-shrink-0"
+            className="w-full h-screen object-cover flex-shrink-0"
           />
         ))}
       </div>
